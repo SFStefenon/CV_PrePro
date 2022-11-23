@@ -6,7 +6,7 @@ There are 12,827 original images used for training and validation (Training: 10,
  
 The 5 preprocessing technics are used:
 
-* **Gaussian Blur**
+* **Gaussian blur**
 
 * **Binarization with threshold**
 
