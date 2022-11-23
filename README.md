@@ -1,6 +1,6 @@
-# Computer Vision Preprocessing Technics
- 
-The dataset presents a preprocessing of the output of YOLOv5 model for detection of insulators.
+# Preprocessing using Computer Vision Technics
+
+The dataset presents a preprocessing of the output of the YOLOv5 model for the detection of insulators.
 
 There are xx original images (cropping) used for training and validation, which can be also used for testing.
 
