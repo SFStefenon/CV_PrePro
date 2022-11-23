@@ -19,3 +19,5 @@ The 5 preprocessing technics are used:
 * **Sobel edge detection**
 
 After the application of these preprocessing technics, this dataset has ***89,789 files*** (including the original files).
+
+![image](https://user-images.githubusercontent.com/88292916/203595369-9b18137a-8bf8-4d2b-bef5-1b1ed3892405.png)
