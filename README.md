@@ -1,19 +1,20 @@
 # CV_PrePro
  
-The dataset presents a preprocessing of the output of YOLOv5 for insulator detection.
+The dataset presents a preprocessing of the output of YOLOv5 model for detection of insulators.
 
 There are xx original images (cropping) used for training and validation, which can be also used for testing.
 
-The preprocessing used 5 technics 
 
-**Gaussian Blur**
+The preprocessing used 5 technics are:
 
-**Binarization with threshold**
+* **Gaussian Blur**
 
-**Adaptive threshold**
+* **Binarization with threshold**
 
-**Threshold with Otsu and Riddler-Calvard**
+* **Adaptive threshold**
 
-**Canny edge detection**
+* **Threshold with Otsu and Riddler-Calvard**
 
-**Sobel edge detection**
+* **Canny edge detection**
+
+* **Sobel edge detection**
