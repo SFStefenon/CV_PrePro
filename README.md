@@ -4,7 +4,7 @@ The dataset presents a preprocessing of the output of the YOLOv5 model for the d
 
 There are 12,827 original images (cropping) used for training and validation, which can be also used for testing.
 
-
+ 
 The files are organized as follows:
 Training: 10,886
 
@@ -24,5 +24,5 @@ The preprocessing used 5 technics are:
 
 * **Sobel edge detection**
 
-
+ 
 After the aplication of these preprocessing tecchnics, this dataset has ***89,789 files*** (including the original files).
