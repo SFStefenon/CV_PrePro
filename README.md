@@ -1,4 +1,4 @@
-# CV_PrePro
+# Computer Vision Preprocessing Technics
  
 The dataset presents a preprocessing of the output of YOLOv5 model for detection of insulators.
 
