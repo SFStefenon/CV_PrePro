@@ -6,8 +6,12 @@ import os
 import glob
 
 # Path
-# Definition = 'Train/crop_string_2'
-Definition = 'Val/crop_string_val_2'
+Definition = 'Train/crop_string_0' 
+# Definition = 'Train/crop_string_1' 
+# Definition = 'Train/crop_string_2' 
+# Definition = 'Train/crop_string_val_0' 
+# Definition = 'Train/crop_string_val_1' 
+# Definition = 'Train/crop_string_val_2' 
 
 path0 = 'C:/Users/ffriz/Desktop/Data/'+Definition+'/_Original/'
 path1 = 'C:/Users/ffriz/Desktop/Data/'+Definition+'/Blur'
@@ -17,11 +21,7 @@ path4 = 'C:/Users/ffriz/Desktop/Data/'+Definition+'/Otsu'
 path5 = 'C:/Users/ffriz/Desktop/Data/'+Definition+'/Canny'
 path6 = 'C:/Users/ffriz/Desktop/Data/'+Definition+'/Sobel'
 
-
-
 # Read the files
-#img_o1 = cv2.imread('a.jpg')
-
 img_o = [cv2.imread(file) for file in glob.glob(path0+"*.jpg")]
 
 # Vector size
