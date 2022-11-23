@@ -2,7 +2,7 @@
 
 The dataset presents a preprocessing of the output of the YOLOv5 model for the detection of insulators.
 
-There are 12,827 original images (cropping) used for training and validation (Training: 10,886 and Validation: 1,941), which can be also used for testing.
+There are 12,827 original images used for training and validation (Training: 10,886 and Validation: 1,941), which can be also used for testing.
  
 The 5 preprocessing technics are used:
 
