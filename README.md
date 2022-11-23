@@ -20,4 +20,5 @@ The 5 preprocessing technics are used:
 
 After the application of these preprocessing technics, this dataset has ***89,789 files*** (including the original files).
 
-![image](https://user-images.githubusercontent.com/88292916/203595369-9b18137a-8bf8-4d2b-bef5-1b1ed3892405.png)
+![image](https://user-images.githubusercontent.com/88292916/203595844-cadc0239-f1aa-4445-9e5c-1626546b63a4.png)
+
