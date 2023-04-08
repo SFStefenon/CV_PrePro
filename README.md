@@ -26,11 +26,10 @@ An example of the output compared to the original image is presented here:
 
 ---
 
-Additional information can be found at the **[Original Paper](https://doi.org/10.3390/s22218323)**.
+Additional information can be found at the **[Original Paper](https://doi.org/10.1007/s00202-022-01641-1)**.
 
 BibTeX:
-`@Article{s22218323, AUTHOR = {Branco, Nathielle Waldrigues and Cavalca, Mariana Santos Matos and Stefenon, Stefano Frizzo and Leithardt, Valderi Reis Quietinho}, TITLE = {{Wavelet LSTM} for Fault Forecasting in Electrical Power Grids}, JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {21}, PAGES = {8323},
-DOI = {10.3390/s22218323}}`
+`@Article{s22218323, AUTHOR = {Stefenon, Stefano Frizzo and Yow, Kin-Choong  and Nied, Ademir and Meyer, Luiz Henrique }, TITLE = {Classification of distribution power grid structures using inception v3 deep neural networ}, JOURNAL = {Electrical Engineerings}, VOLUME = {104}, YEAR = {2022}, PAGES = {4557–4569}, DOI = {10.1007/s00202-022-01641-1}}`
 
 ---
 
