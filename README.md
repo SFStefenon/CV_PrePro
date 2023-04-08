@@ -24,3 +24,16 @@ An example of the output compared to the original image is presented here:
 
 ![image](https://user-images.githubusercontent.com/88292916/203595844-cadc0239-f1aa-4445-9e5c-1626546b63a4.png)
 
+---
+
+Additional information can be found at the **Original Paper](https://doi.org/10.3390/s22218323)**.
+
+BibTeX:
+`@Article{s22218323, AUTHOR = {Branco, Nathielle Waldrigues and Cavalca, Mariana Santos Matos and Stefenon, Stefano Frizzo and Leithardt, Valderi Reis Quietinho}, TITLE = {Wavelet LSTM for Fault Forecasting in Electrical Power Grids}, JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {21}, PAGES = {8323},
+DOI = {10.3390/s22218323}}`
+
+---
+
+Thank you.
+
+Dr. **Stefano Frizzo Stefenon**
