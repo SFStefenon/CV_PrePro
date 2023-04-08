@@ -29,7 +29,7 @@ An example of the output compared to the original image is presented here:
 Additional information can be found at the **[Original Paper](https://doi.org/10.1007/s00202-022-01641-1)**.
 
 BibTeX:
-`@Article{s22218323, AUTHOR = {Stefenon, Stefano Frizzo and Yow, Kin-Choong  and Nied, Ademir and Meyer, Luiz Henrique }, TITLE = {Classification of distribution power grid structures using inception v3 deep neural networ}, JOURNAL = {Electrical Engineerings}, VOLUME = {104}, YEAR = {2022}, PAGES = {4557–4569}, DOI = {10.1007/s00202-022-01641-1}}`
+`@article{gtd2.12353, author = {Stefenon, Stéfano Frizzo and Corso, Marcelo Picolotto and Nied, Ademir and Perez, Fabio Luis and Yow, Kin-Choong and Gonzalez, Gabriel Villarrubia and Leithardt, Valderi Reis Quietinho}, title = {Classification of insulators using neural network based on computer vision}, journal = {IET Generation, Transmission \& Distribution}, volume = {16}, number = {6}, pages = {1096-1107}, doi = {10.1049/gtd2.12353}, year = {2022}}`
 
 ---
 
