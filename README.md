@@ -28,7 +28,7 @@ An example of the output compared to the original image is presented here:
 
 Additional information can be found at the **[Original Paper](https://doi.org/10.1049/gtd2.12353)**.
 
-Stefenon, S. F., Corso, M. P., Nied, A., Perez, F. L., Yow, K.-C., Gonzalez, G. V., Leithardt, V. R. Q. Classification of insulators using neural network based on computer vision, IET Generation, Transmission & Distribution,  vol. 16, n. 6, p. 1096-1107, 2022.
+Stefenon, S. F., Corso, M. P., Nied, A., Perez, F. L., Yow, K.-C., Gonzalez, G. V., Leithardt, V. R. Q. Classification of insulators using neural network based on computer vision, IET Generation, Transmission & Distribution,  vol. 16, n. 6, pp. 1096-1107, 2022.
 
 BibTeX:
 `@article{gtd2.12353, author = {Stefenon, Stefano Frizzo and Corso, Marcelo Picolotto and Nied, Ademir and Perez, Fabio Luis and Yow, Kin-Choong and Gonzalez, Gabriel Villarrubia and Leithardt, Valderi Reis Quietinho}, title = {Classification of insulators using neural network based on computer vision}, journal = {IET Generation, Transmission \& Distribution}, volume = {16}, number = {6}, pages = {1096-1107}, doi = {10.1049/gtd2.12353}, year = {2022}}`
