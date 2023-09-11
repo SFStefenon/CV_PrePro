@@ -26,7 +26,7 @@ An example of the output compared to the original image is presented here:
 
 ---
 
-Examples of applications can be found at: 
+Application examples can be found at:
 
 **[Stefenon, S. F., Corso, M. P., Nied, A., et al. Classification of insulators using neural network based on computer vision, IET Generation, Transmission & Distribution,  vol. 16, n. 6, pp. 1096-1107, 2022.](https://doi.org/10.1049/gtd2.12353)**
 
